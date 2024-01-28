@@ -1,2 +1,2 @@
 # HAM
-homotopy analysis method to neuroscience problems
+homotopy analysis method and its application to neuroscience problems
